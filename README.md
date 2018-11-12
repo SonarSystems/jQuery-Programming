@@ -1,1 +1,1 @@
-# jQuery-Programming
+# jQuery Programming
